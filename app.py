@@ -27,7 +27,7 @@ def generate():
 
     # run mashup script safely
     subprocess.run([
-        sys.executable,          # safer than "python"
+        "python",          # safer than "python"
         "102303670.py",
         singer,
         number,
