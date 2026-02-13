@@ -1,6 +1,7 @@
-flask
+Flask
 gunicorn
 moviepy
 yt-dlp
 yagmail
 imageio-ffmpeg
+numpy
